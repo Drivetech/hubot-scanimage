@@ -1,0 +1,27 @@
+{
+  "name": "hubot-scanimage",
+  "version": "1.0.0",
+  "description": "A hubot script for scan images and upload to imgur",
+  "main": "index.coffee",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lgaticaq/hubot-scanimage.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "vimeo"
+  ],
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgaticaq/hubot-scanimage/issues"
+  },
+  "homepage": "https://github.com/lgaticaq/hubot-scanimage#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
