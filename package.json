@@ -1,6 +1,6 @@
 {
   "name": "hubot-scanimage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hubot script for scan images and upload to imgur",
   "main": "index.coffee",
   "engines": {
