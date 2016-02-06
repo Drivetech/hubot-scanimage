@@ -6,7 +6,7 @@
 #     (https://github.com/lgaticaq/docker-scanimage)
 #
 # Commands:
-#   hubot scanimage -> <url image>
+#   hubot scanimage -> Scan a document
 #
 # Author:
 #   lgaticaq
